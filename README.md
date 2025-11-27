@@ -41,7 +41,3 @@ Repositório criado para abrigar os materiais e atividades realizados no primeir
 ## Informações adicionais:
 Para explorar mais detalhadamente sobre cada matéria, acessar a pasta com seu nome correspondente, onde estarão separadas em sub-pastas os conteúdos desenvolvidos. Cada matéria possui um README geral, explicando cada sub-pasta dentro dela.
 Este repositório tem como objetivo principal tornar os conteúdos mais organizados e também aplicar o conhecimento em sala de aula sobre GitHub.
-- **Esse repositório, especificamente, foi feito utilizando subtrees.**
-  
-
-
