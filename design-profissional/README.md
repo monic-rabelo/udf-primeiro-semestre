@@ -15,4 +15,4 @@ Subpasta com os materiais para a avaliação 1:
 * Certificado de evento tech (networking)
 * Currículo profissional em LaTeX feito no editor Overleaf
 * PDF com vaga de estágio em informática
-* Portfólio com dois projetos relevantes: projeto de dados de imersão da Alura e projeto de struct da matéria de algoritmos.
+* Portfólio com um projeto relevante: projeto de struct da matéria de algoritmos.
