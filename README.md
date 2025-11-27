@@ -6,7 +6,7 @@ Repositório criado para abrigar os materiais e atividades realizados no primeir
 | algoritmos  | gerenciamento de alunos com struct, calculadora científica e insertion sort  |
 | design-profissional| atividade básica testando o git, A1 com certificação, aplicação para vaga de estágio na área, currículo e portfólio com projeto de dados e calculadora científica  |
 | front-end  | projeto02 desenvolvido em aula e projeto final utilizando CSS, HTML, JavaScript e frameworks.  |
-| modelagem-bd  | projeto final sobre o trabalho de "turismo" com modelo conceitual, lógico e físico do banco de dados, juntamente ao dicionário de dados e também aos prints sobre atualização, exclusão e inserção de dados no banco.|
+| modelagem-banco-dados  | projeto final sobre o trabalho de "turismo" com modelo conceitual, lógico e físico do banco de dados, juntamente ao dicionário de dados e também aos prints sobre atualização, exclusão e inserção de dados no banco.|
 
 ---
 
@@ -41,3 +41,4 @@ Repositório criado para abrigar os materiais e atividades realizados no primeir
 ## Informações adicionais:
 Para explorar mais detalhadamente sobre cada matéria, acessar a pasta com seu nome correspondente, onde estarão separadas em sub-pastas os conteúdos desenvolvidos. Cada matéria possui um README geral, explicando cada sub-pasta dentro dela.
 Este repositório tem como objetivo principal tornar os conteúdos mais organizados e também aplicar o conhecimento em sala de aula sobre GitHub.
+
